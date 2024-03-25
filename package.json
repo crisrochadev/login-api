@@ -1,0 +1,24 @@
+{
+  "name": "login-api",
+  "version": "1.0.0",
+  "description": "api para login e registro de usuário",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crisrochadev/login-api.git"
+  },
+  "keywords": [
+    "login",
+    "register",
+    "node"
+  ],
+  "author": "crisrochadev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crisrochadev/login-api/issues"
+  },
+  "homepage": "https://github.com/crisrochadev/login-api#readme"
+}
